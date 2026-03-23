@@ -1,0 +1,12 @@
+DVR preprocessing summary
+=========================
+Selected variable: vs
+Original shape: (727, 1193, 55)
+Cropped/downsampled shape: (400, 656, 44)
+Original scalar min: 3276.816650390625
+Original scalar max: 4778.02783203125
+NaN ratio after invalid cleanup: 0.000000
+CROP_X: (0.2, 0.75)
+CROP_Y: (0.2, 0.75)
+CROP_Z: (0.1, 0.9)
+DOWNSAMPLE: 1

@@ -1,0 +1,29 @@
+27 DVR conditions
+=================
+01. tf=tf1_baseline | sample=low | shading=off | file=tf1_baseline__low__off.png
+02. tf=tf1_baseline | sample=low | shading=basic | file=tf1_baseline__low__basic.png
+03. tf=tf1_baseline | sample=low | shading=depth | file=tf1_baseline__low__depth.png
+04. tf=tf1_baseline | sample=medium | shading=off | file=tf1_baseline__medium__off.png
+05. tf=tf1_baseline | sample=medium | shading=basic | file=tf1_baseline__medium__basic.png
+06. tf=tf1_baseline | sample=medium | shading=depth | file=tf1_baseline__medium__depth.png
+07. tf=tf1_baseline | sample=high | shading=off | file=tf1_baseline__high__off.png
+08. tf=tf1_baseline | sample=high | shading=basic | file=tf1_baseline__high__basic.png
+09. tf=tf1_baseline | sample=high | shading=depth | file=tf1_baseline__high__depth.png
+10. tf=tf2_boundary | sample=low | shading=off | file=tf2_boundary__low__off.png
+11. tf=tf2_boundary | sample=low | shading=basic | file=tf2_boundary__low__basic.png
+12. tf=tf2_boundary | sample=low | shading=depth | file=tf2_boundary__low__depth.png
+13. tf=tf2_boundary | sample=medium | shading=off | file=tf2_boundary__medium__off.png
+14. tf=tf2_boundary | sample=medium | shading=basic | file=tf2_boundary__medium__basic.png
+15. tf=tf2_boundary | sample=medium | shading=depth | file=tf2_boundary__medium__depth.png
+16. tf=tf2_boundary | sample=high | shading=off | file=tf2_boundary__high__off.png
+17. tf=tf2_boundary | sample=high | shading=basic | file=tf2_boundary__high__basic.png
+18. tf=tf2_boundary | sample=high | shading=depth | file=tf2_boundary__high__depth.png
+19. tf=tf3_continuity | sample=low | shading=off | file=tf3_continuity__low__off.png
+20. tf=tf3_continuity | sample=low | shading=basic | file=tf3_continuity__low__basic.png
+21. tf=tf3_continuity | sample=low | shading=depth | file=tf3_continuity__low__depth.png
+22. tf=tf3_continuity | sample=medium | shading=off | file=tf3_continuity__medium__off.png
+23. tf=tf3_continuity | sample=medium | shading=basic | file=tf3_continuity__medium__basic.png
+24. tf=tf3_continuity | sample=medium | shading=depth | file=tf3_continuity__medium__depth.png
+25. tf=tf3_continuity | sample=high | shading=off | file=tf3_continuity__high__off.png
+26. tf=tf3_continuity | sample=high | shading=basic | file=tf3_continuity__high__basic.png
+27. tf=tf3_continuity | sample=high | shading=depth | file=tf3_continuity__high__depth.png
