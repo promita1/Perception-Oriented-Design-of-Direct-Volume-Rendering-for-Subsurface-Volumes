@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter / IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local datasets
+data/*.nc
+data/*.h5
+data/*.hdf5
+data/*.raw
+data/*.nii
+data/*.mhd
+data/*.vtk
+
+# Generated outputs
+outputs/renders/
+outputs/logs/
+
+# Optional: ignore all screenshots if repo gets heavy
+# outputs/interactive/
+# outputs/baseline/
+# outputs/atlas/
+
+
+data/*.h5
+data/*.hdf5
+data/*.raw
+outputs/renders/
+outputs/logs/
+
+data/*.nc
