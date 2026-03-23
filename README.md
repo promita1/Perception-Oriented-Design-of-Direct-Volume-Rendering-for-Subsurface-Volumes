@@ -20,11 +20,11 @@ The project uses a public 3D seismic velocity dataset and builds a Python + VTK 
 - `dvr_interactive.py` — interactive prototype for switching transfer function, sampling, and shading
 
 ## Dataset
-This project uses the USGS Cascadia v1.7 seismic velocity model. 
-Dataset name: Data for A 3-D Seismic Velocity Model for Cascadia with Shallow Soils & Topography, Version 1.7
-Dataset link - https://www.sciencebase.gov/catalog/item/65b40c6ad34e36a390458d76
-Prototype is built using CVM17_L3.nc
-The raw dataset is not included in this repository because of file size.
+- This project uses the USGS Cascadia v1.7 seismic velocity model. 
+- Dataset name: Data for A 3-D Seismic Velocity Model for Cascadia with Shallow Soils & Topography, Version 1.7
+- Dataset link - https://www.sciencebase.gov/catalog/item/65b40c6ad34e36a390458d76
+- Prototype is built using CVM17_L3.nc
+- The raw dataset is not included in this repository because of file size.
 
 ## Outputs
 - baseline render image
